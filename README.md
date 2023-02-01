@@ -11,7 +11,8 @@
 	"position": "Software Engineer",
 	"company": "Apple"
 },
-"interests": ["Backend Development", "Artificial Intelligence", "Robotics"]
+"interests": ["Backend Development", "Artificial Intelligence", "Robotics"], 
+'notes": "I love to grow and use my skills for good! :D"
 ```
 
 #### Technologies
