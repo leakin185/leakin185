@@ -12,7 +12,7 @@
 	"company": "Apple"
 },
 "interests": ["Backend Development", "Artificial Intelligence", "Robotics"], 
-'notes": "I love to grow and use my skills for good! :D"
+"notes": "I love to grow and use my skills for good! :D"
 ```
 
 #### Technologies
