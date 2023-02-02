@@ -5,12 +5,9 @@
 
 ```json
 "name": "Lea Wang Yi",
-"education": "Renaissance Engineering Programme (BSc(Hons) Engineering Science, MSc Technology Management)",
+"education": "Renaissance Engineering Programme",
 "school": "Nanyang Technological University (NTU Singapore)",
-"work": {
-	"position": "Software Engineer",
-	"company": "Apple"
-},
+"work": "Software Engineer",
 "interests": ["Backend Development", "Artificial Intelligence", "Robotics"], 
 "notes": "I love to grow and use my skills for good! :D"
 ```
