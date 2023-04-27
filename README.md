@@ -4,12 +4,9 @@
 <a href="mailto:leakin185@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ```json
-"name": "Lea Wang Yi",
-"education": "Renaissance Engineering Programme",
-"school": "Nanyang Technological University (NTU Singapore)",
 "work": "Software Engineer",
-"interests": ["Backend Development", "Artificial Intelligence", "Robotics"], 
-"notes": "I love to grow and use my skills for good!"
+"school": "Nanyang Technological University (NTU Singapore)",
+"work": "Software Engineer"
 ```
 
 #### Technologies
