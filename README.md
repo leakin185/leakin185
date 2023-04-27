@@ -6,7 +6,6 @@
 ```json
 "work": "Software Engineer",
 "school": "Nanyang Technological University (NTU Singapore)",
-"work": "Software Engineer"
 ```
 
 #### Technologies
@@ -49,6 +48,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=leakin185&count_private=true&show_icons=true&include_all_commits=true)
 
