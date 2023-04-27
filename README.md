@@ -5,7 +5,7 @@
 
 ```json
 "work": "Software Engineer",
-"school": "Nanyang Technological University (NTU Singapore)",
+"school": "Nanyang Technological University, Singapore",
 ```
 
 #### Technologies
